@@ -1,0 +1,21 @@
+{
+  "name": "Global UFO Tracker",
+  "short_name": "UFO Tracker",
+  "description": "Rede mundial de monitoramento de fenômenos aéreos não identificados.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "https://images.unsplash.com/photo-1518364538800-6bae3c2ea0f2?q=80&w=192&auto=format&fit=crop",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1518364538800-6bae3c2ea0f2?q=80&w=512&auto=format&fit=crop",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

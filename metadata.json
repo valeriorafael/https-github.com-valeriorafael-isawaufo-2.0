@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Global UFO Tracker",
+  "description": "Rede mundial de monitoramento de fenômenos aéreos não identificados.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
